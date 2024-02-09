@@ -1,1 +1,2 @@
-# ChessV1
+# chess-site
+ A simple multiplayer online chess game
